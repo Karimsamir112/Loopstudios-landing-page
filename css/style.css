@@ -245,7 +245,7 @@ position: relative;
 	left:-20px;
 	padding-left:20px;
 border:2px solid white;
-	width: 400px;
+	width: 370px;
 	height: 230px;
 	margin:50px auto;
 }
@@ -438,6 +438,7 @@ width: 500px;
 	margin-top: 180px;
 	
 	width: 100%;
+	text-align:center;
 	
 }
 .creation-sm-xs h2{
@@ -461,7 +462,7 @@ width: 500px;
 	text-transform: uppercase;
 	position: relative;
 	top:20px;
-	left: 34%;
+	
 	word-spacing: 5px;
 	margin:50px auto;
 	letter-spacing: 3px;
